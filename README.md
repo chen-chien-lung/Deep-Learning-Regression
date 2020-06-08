@@ -15,7 +15,7 @@
 因預測的是價格，所以觀察到幾個特徵值的大小並不正比於價格，所以把他們做one hot encode。<br />
 
 Zipcode本身的值大小跟價格沒有正比關係，但特別幾個zipcode的價格是有比較高的現象。<br />
-<img src="https://github.com/MachineLearningNTUT2018/regression-t107368523/blob/master/image/zipcode.png" width="600" height="440"><br />
+<img src="https://github.com/chen-chien-lung/Deep-Learning-Regression/blob/master/image/zipcode.png" width="600" height="440"><br />
 
 Water_front 屬於有跟沒有，歸為one hot encode類別<br />
 <img src="https://github.com/chen-chien-lung/Deep-Learning-Regression/blob/master/image/water_front.png" width="600" height="440"><br />

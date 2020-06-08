@@ -10,7 +10,7 @@
 <img src="https://github.com/chen-chien-lung/Deep-Learning-Regression/blob/master/image/isnull.png" width="600" height="440"><br />
 
 觀察各資料特徵的關係<br />
-<img src="https://github.com/chen-chien-lung/Deep-Learning-Regression/blob/master/image/image/Corr.png" width="600" height="440"><br />
+<img src="https://github.com/chen-chien-lung/Deep-Learning-Regression/blob/master/image/Corr.png" width="600" height="440"><br />
 
 因預測的是價格，所以觀察到幾個特徵值的大小並不正比於價格，所以把他們做one hot encode。<br />
 
@@ -21,7 +21,7 @@ Water_front 屬於有跟沒有，歸為one hot encode類別<br />
 <img src="https://github.com/MachineLearningNTUT2018/regression-t107368523/blob/master/image/water_front.png" width="600" height="440"><br />
 
 View也是，並不會因為數值高而有高價格。<br />
-<img src="https://github.com/chen-chien-lung/Deep-Learning-Regression/blob/master/image/image/view.png" width="600" height="440"><br />
+<img src="https://github.com/chen-chien-lung/Deep-Learning-Regression/blob/master/image/view.png" width="600" height="440"><br />
 
 Condition也是同樣情況。<br />
 <img src="https://github.com/chen-chien-lung/Deep-Learning-Regression/blob/master/image/condition.png" width="600" height="440"><br />

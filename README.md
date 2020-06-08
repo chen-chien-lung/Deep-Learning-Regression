@@ -18,7 +18,7 @@ Zipcode本身的值大小跟價格沒有正比關係，但特別幾個zipcode的
 <img src="https://github.com/MachineLearningNTUT2018/regression-t107368523/blob/master/image/zipcode.png" width="600" height="440"><br />
 
 Water_front 屬於有跟沒有，歸為one hot encode類別<br />
-<img src="https://github.com/MachineLearningNTUT2018/regression-t107368523/blob/master/image/water_front.png" width="600" height="440"><br />
+<img src="https://github.com/chen-chien-lung/Deep-Learning-Regression/blob/master/image/water_front.png" width="600" height="440"><br />
 
 View也是，並不會因為數值高而有高價格。<br />
 <img src="https://github.com/chen-chien-lung/Deep-Learning-Regression/blob/master/image/view.png" width="600" height="440"><br />
